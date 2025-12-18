@@ -1,0 +1,19 @@
+Origin: Lars Timm
+Label: LT-App_Learning-Repo
+Codename: noble
+Date: Thu, 18 Dec 2025 18:57:55 UTC
+Architectures: amd64
+Components: main
+Description: Repo to learn about apt repos
+MD5Sum:
+ 7cc1356dd86e8f0dada4e12504f3abbd 396 main/binary-amd64/Packages
+ 3f71530e588a2b22662c0521c8a02591 315 main/binary-amd64/Packages.gz
+ fb669a3483f54b399554f59e3d7620b0 125 main/binary-amd64/Release
+SHA1:
+ 4158caed7f1c4aa8c4170b66a70ce4af08b0434d 396 main/binary-amd64/Packages
+ 4110d8020b763f58c6ff85ae1ad3e4c624398a09 315 main/binary-amd64/Packages.gz
+ 18ed492120a07042e22246ac8e394ae2130c4e37 125 main/binary-amd64/Release
+SHA256:
+ 58db2421e328c5035a6786287ebddffe0ed751cef916fd046b8d43e7847d96df 396 main/binary-amd64/Packages
+ aac98c1a47a3b22921813073dbd3d75d795322e9bd40a756ce966fc0302eb5a9 315 main/binary-amd64/Packages.gz
+ 97735f4d23357c740dc43932e2c3ce3339df3cb6f93ea865fb3f64fb30525cdd 125 main/binary-amd64/Release

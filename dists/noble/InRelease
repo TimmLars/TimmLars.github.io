@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Lars Timm
+Label: LT-App_Learning-Repo
+Codename: noble
+Date: Thu, 18 Dec 2025 18:57:55 UTC
+Architectures: amd64
+Components: main
+Description: Repo to learn about apt repos
+MD5Sum:
+ 7cc1356dd86e8f0dada4e12504f3abbd 396 main/binary-amd64/Packages
+ 3f71530e588a2b22662c0521c8a02591 315 main/binary-amd64/Packages.gz
+ fb669a3483f54b399554f59e3d7620b0 125 main/binary-amd64/Release
+SHA1:
+ 4158caed7f1c4aa8c4170b66a70ce4af08b0434d 396 main/binary-amd64/Packages
+ 4110d8020b763f58c6ff85ae1ad3e4c624398a09 315 main/binary-amd64/Packages.gz
+ 18ed492120a07042e22246ac8e394ae2130c4e37 125 main/binary-amd64/Release
+SHA256:
+ 58db2421e328c5035a6786287ebddffe0ed751cef916fd046b8d43e7847d96df 396 main/binary-amd64/Packages
+ aac98c1a47a3b22921813073dbd3d75d795322e9bd40a756ce966fc0302eb5a9 315 main/binary-amd64/Packages.gz
+ 97735f4d23357c740dc43932e2c3ce3339df3cb6f93ea865fb3f64fb30525cdd 125 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEO98W4CepuCGCpuY6fxYAdVCSeZIFAmlETrMACgkQfxYAdVCS
+eZJJvw//d5a+pVCtij9OZwU9v/9639hwoOpCVgxCUKp4mRNBz+cl7hhkLgThCRp+
+58p8FYgS7hltSfFo0fxsEPwbceIHX+wz6MRBePySicKjRQvI3BzZpHjyBx/rVY7E
+9aXrljDpGYTTIAH2o2GkOlmeKhlHLkOE7i21bSkaE8s6knY68N07tZdBWeH3dPbo
+8PFTucYHPmV7IEnC/8RJGognWwhTn9dgBB2CtX5hVus1EibS3XszaxBtbA2JKDbC
+GiTV3TuvbwcVVeep/283XF2au2YXA3VQ+2n5evyjdWi7QWLmOr7PQJZzb3eF9t15
+FghT4s3n5QHzcKs5m/8+Ttzj3XG4b9f2pnPSfZTKGe3V0ecwuu9Ydco8X/Nx5v1J
+MlySzsh1mIZUhIfeUNqblxJd9i5VU1GT38TzWGgJyOSnbxcpCSAJqCRaIlSqblOT
+7cPwhGoOYUOhU0QxWPOHUFZDlANmnPoo0iIesfIvQ3FzhMKxWnXSKcnXKy+2HJrF
+Az3nyvnIvywkQJCOgnDJYTYnapthglfM87VJCJnYIIsrPSO1PM396fM0GAPxm8uj
+nDNXQ928o0fnXKNhja+2hbQRQcWkahQZBERdCt7F3gDVUf46JbW3Gqp9jdBQ2XvK
+z8sG5X1oZMGjQNWIUSdQcTNVStm4d8z24GYLVXRzXxMMJqa4/5M=
+=LEAY
+-----END PGP SIGNATURE-----

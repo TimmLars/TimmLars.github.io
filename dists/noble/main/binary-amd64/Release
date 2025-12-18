@@ -1,0 +1,5 @@
+Component: main
+Origin: Lars Timm
+Label: LT-App_Learning-Repo
+Architecture: amd64
+Description: Repo to learn about apt repos
