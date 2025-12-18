@@ -2,6 +2,6 @@ Origin: Lars Timm
 Label: LT-App_Learning-Repo
 Codename: noble
 Architectures: amd64
-Components: main
+Components: universe
 Description: Repo to learn about apt repos
 SignWith: 3BDF16E027A9B82182A6E63A7F16007550927992

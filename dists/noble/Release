@@ -1,19 +1,19 @@
 Origin: Lars Timm
 Label: LT-App_Learning-Repo
 Codename: noble
-Date: Thu, 18 Dec 2025 18:57:55 UTC
+Date: Thu, 18 Dec 2025 19:15:25 UTC
 Architectures: amd64
-Components: main
+Components: universe
 Description: Repo to learn about apt repos
 MD5Sum:
- 7cc1356dd86e8f0dada4e12504f3abbd 396 main/binary-amd64/Packages
- 3f71530e588a2b22662c0521c8a02591 315 main/binary-amd64/Packages.gz
- fb669a3483f54b399554f59e3d7620b0 125 main/binary-amd64/Release
+ a6d1487c70769817950882c456b4a620 400 universe/binary-amd64/Packages
+ e1897003d9adebe83ad1fce2377530bb 318 universe/binary-amd64/Packages.gz
+ 5886af5df57f888bec2fc20fb895520c 129 universe/binary-amd64/Release
 SHA1:
- 4158caed7f1c4aa8c4170b66a70ce4af08b0434d 396 main/binary-amd64/Packages
- 4110d8020b763f58c6ff85ae1ad3e4c624398a09 315 main/binary-amd64/Packages.gz
- 18ed492120a07042e22246ac8e394ae2130c4e37 125 main/binary-amd64/Release
+ a7c86f6478d5b7b47919b266bbfc8793bb1a18dd 400 universe/binary-amd64/Packages
+ caa21fe8e9c52284e0912f03334abd71370e3d23 318 universe/binary-amd64/Packages.gz
+ e5e6a41556736cdbc50dcd824370e5c3886f8d84 129 universe/binary-amd64/Release
 SHA256:
- 58db2421e328c5035a6786287ebddffe0ed751cef916fd046b8d43e7847d96df 396 main/binary-amd64/Packages
- aac98c1a47a3b22921813073dbd3d75d795322e9bd40a756ce966fc0302eb5a9 315 main/binary-amd64/Packages.gz
- 97735f4d23357c740dc43932e2c3ce3339df3cb6f93ea865fb3f64fb30525cdd 125 main/binary-amd64/Release
+ 95b38c48c8a139f04252288c45a978e4df63b6d11f37eac13ed2ca863fa9b789 400 universe/binary-amd64/Packages
+ 8883e31b519239a6ed0434ab655c3d9993a31c66642219b2920c663c71c2e35d 318 universe/binary-amd64/Packages.gz
+ baaaf296854ed637adc3aac68527233ace3c91e68813cd6b9fa0bdfdba661ae5 129 universe/binary-amd64/Release
