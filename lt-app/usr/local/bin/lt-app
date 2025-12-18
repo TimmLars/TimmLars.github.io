@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Hello Lars, hier ist deine App"
+echo "Es ist $(date)"
+echo "Dieser Prozess läuft mit der PID $$"
